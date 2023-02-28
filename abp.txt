@@ -1,0 +1,23 @@
+[Adblock Plus 2.0]
+! Version: 202102292258
+! Title: Rojek
+!------------------------Specific element hiding rules------------------------!
+iqiyi.com##.video_logoBox
+iqiyi.com##.iqp-logo-box
+iqiyi.com##.iqp-logo-top
+iqiyi.com##.iqp-logo-bottom
+iqiyi.com##.logoShowAnimation
+iqiyi.com###J_vip-ad-pop
+v.qq.com##.txp_waterMark_pic
+v.qq.com##.mod_scene_change
+v.qq.com##.mod_side_vip
+v.qq.com##.txp_top_btns
+v.qq.com##.txp_ad
+v.qq.com##.txp_barrage_avatar
+v.qq.com##.txp_barrage_badge
+v.qq.com##.txp_barrage_item_bubble
+v.qq.com##.txp_barrage_emoji
+v.youku.com##.youku-layer-logo
+live.bilibili.com##.bilibili-live-player-video-logo
+live.bilibili.com##.blrp-logo
+teamshub.com##.__pwm
